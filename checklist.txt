@@ -1,0 +1,10 @@
+Сайт "checklist.example"
+1) Registration		Passed	Failed
+2) Social network	Passed	Failed
+3) Field Validation	Passed	Failed
+4) Authorization	Passed	Failed
+5) Profile		Passed	Failed
+6) Name change		Passed	Failed
+7) Changing fields	Passed	Failed
+8) Subscription		Passed	Failed
+9) Account deleting	Passed	Failed
