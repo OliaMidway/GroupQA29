@@ -1,8 +1,11 @@
 1) ID: 1
 2) Environment: Win 10 X64, версия 21H1, сборка ОС 19043.1645
-3) Description
-4) Severity
-5) Priority
-6) STR
-7) Actual_result
-8) Expexted_result
+3) Description: First name field should accept up to 31 characters (no 30 as it accepts now)
+4) Severity: Major
+5) Priority: Medium
+6) STR:
+	1) Go to ITcareer website
+        2) Enter 31 Latin letters in the First Name field
+        3) Click on the “Submit” button
+7) Actual_result: Error message
+8) Expexted_result: Success message
